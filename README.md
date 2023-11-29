@@ -13,3 +13,5 @@ Restart Neovim and install the treesitter syntax
 ```
 :TSInstall python
 ```
+Reference Video:
+https://www.youtube.com/watch?v=4BnVeOUeZxc
